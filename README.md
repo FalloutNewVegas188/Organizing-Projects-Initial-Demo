@@ -1,1 +1,1 @@
-In this exercise 
+In this exercise we will practice initializing organizing projects
